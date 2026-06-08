@@ -34,21 +34,21 @@
 ### 📌 getSettings
 Показ настроек инстанса
 
-![getSettings](images/getSettings.png)
+![getSettings](getSettings.png)
 
 ---
 
 ### 📌 getStateInstance (AUTHORIZED)
 Статус подключения: WhatsApp авторизован
 
-![authorized](images/getStateInstance_authorized.png)
+![authorized](getStateInstance_authorized.png)
 
 ---
 
 ### 📌 getStateInstance (UNAUTHORIZED)
 Статус подключения: WhatsApp не авторизован
 
-![unauthorized](images/getStateInstance_unauthorized.png)
+![unauthorized](getStateInstance_unauthorized.png)
 
 ---
 
@@ -64,7 +64,7 @@
 
 Ошибка при отправке сообщения (неверные данные / невалидный номер)
 
-![send error](images/sendMessage_error.png)
+![send error](sendMessage_error.png)
 
 ---
 
@@ -72,7 +72,7 @@
 
 Результат отправки сообщения в WhatsApp
 
-![whatsapp](images/message_whatsapp.png)
+![whatsapp](message_whatsapp.png)
 
 ---
 
