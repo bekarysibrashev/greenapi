@@ -41,14 +41,14 @@
 ### 📌 getStateInstance (AUTHORIZED)
 Статус подключения: WhatsApp авторизован
 
-![authorized](getStateInstance_authorized.png)
+![authorized](getStateInstance_Authorized.png)
 
 ---
 
 ### 📌 getStateInstance (UNAUTHORIZED)
 Статус подключения: WhatsApp не авторизован
 
-![unauthorized](getStateInstance_unauthorized.png)
+![unauthorized](getStateInstance_Unauthorized.png)
 
 ---
 
@@ -56,7 +56,7 @@
 
 Сообщение успешно отправлено в WhatsApp
 
-![send success](images/sendMessage_success.png)
+![send success](sendMessage_Successfull.png)
 
 ---
 
@@ -64,7 +64,7 @@
 
 Ошибка при отправке сообщения (неверные данные / невалидный номер)
 
-![send error](sendMessage_error.png)
+![send error](sendMessage_Unsuccessfull.png)
 
 ---
 
@@ -72,7 +72,7 @@
 
 Результат отправки сообщения в WhatsApp
 
-![whatsapp](message_whatsapp.png)
+![whatsapp](messageForMyself.png)
 
 ---
 
