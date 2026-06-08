@@ -1,5 +1,12 @@
 # GREEN-API WhatsApp Control Panel
 
+-----
+# 🌐 Демо
+
+Онлайн версия проекта:
+
+👉 https://your-netlify-link.com
+
 ## 📌 Описание проекта
 
 Этот проект представляет собой веб-интерфейс для работы с GREEN-API WhatsApp Gateway.
@@ -41,14 +48,14 @@
 ### 📌 getStateInstance (AUTHORIZED)
 Статус подключения: WhatsApp авторизован
 
-![authorized](getStateInstance_Authorized.png)
+![authorized](getStateInstanse_Authorized.png)
 
 ---
 
 ### 📌 getStateInstance (UNAUTHORIZED)
 Статус подключения: WhatsApp не авторизован
 
-![unauthorized](getStateInstance_Unauthorized.png)
+![unauthorized](getStateInstanse_Unauthorized.png)
 
 ---
 
@@ -73,14 +80,6 @@
 Результат отправки сообщения в WhatsApp
 
 ![whatsapp](messageForMyself.png)
-
----
-
-## 🌐 Демо
-
-Онлайн версия проекта:
-
-👉 https://your-netlify-link.com
 
 ---
 
@@ -117,4 +116,4 @@
 
 ## 📬 Автор
 
-Telegram: https://t.me/your_username
+Telegram: https://t.me/@bekskrtch
